@@ -1,0 +1,9 @@
+mysql-connector-python
+transformers
+torch
+ctransformers
+
+
+accelerate
+sentencepiece
+protobuf
